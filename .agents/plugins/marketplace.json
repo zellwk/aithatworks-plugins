@@ -1,0 +1,17 @@
+{
+  "name": "aithatworks",
+  "interface": { "displayName": "AI That Works" },
+  "plugins": [
+    {
+      "name": "atw",
+      "source": {
+        "source": "npm",
+        "package": "@aithatworks/atw",
+        "version": "1.0.0",
+        "registry": "https://registry.useaithatworks.com"
+      },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}
