@@ -1,0 +1,18 @@
+{
+  "name": "aithatworks",
+  "owner": { "name": "AI That Works", "url": "https://useaithatworks.com" },
+  "description": "Plugins for AI That Works members.",
+  "plugins": [
+    {
+      "name": "atw",
+      "source": {
+        "source": "npm",
+        "package": "@aithatworks/atw",
+        "version": "1.0.0",
+        "registry": "https://registry.useaithatworks.com"
+      },
+      "description": "AI That Works skills: email triage, drafting and replies, and setup.",
+      "category": "productivity"
+    }
+  ]
+}
