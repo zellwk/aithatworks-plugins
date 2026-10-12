@@ -7,7 +7,7 @@
       "source": {
         "source": "npm",
         "package": "@aithatworks/atw",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "registry": "https://registry.useaithatworks.com"
       },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
