@@ -8,7 +8,7 @@
       "source": {
         "source": "npm",
         "package": "@aithatworks/atw",
-        "version": "1.2.0",
+        "version": "1.2.1",
         "registry": "https://registry.useaithatworks.com"
       },
       "description": "AI That Works skills: email triage, drafting and replies, and setup.",
