@@ -11,7 +11,7 @@
         "version": "1.2.1",
         "registry": "https://registry.useaithatworks.com"
       },
-      "description": "AI That Works skills: email triage, drafting and replies, and setup.",
+      "description": "AI That Works skills: email triage, drafting and replies, a browser your AI can use, and setup.",
       "category": "productivity"
     }
   ]
